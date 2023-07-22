@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <packageId>ocarina.sanguophage.faction</packageId>
+    <name>Sanguophage Faction</name>
+    <author>ocarina</author>
+    <supportedVersions>
+        <li>1.4</li>
+    </supportedVersions>
+    <description>Simple mod that adds sanguophage faction.</description>
+    <modDependencies>
+        <li>
+            <packageId>ludeon.rimworld.biotech</packageId>
+            <displayName>Biotech [Official DLC]</displayName>
+            <steamWorkshopUrl>https://store.steampowered.com/app/1826140/RimWorld__Biotech/?curator_clanid=25160263</steamWorkshopUrl>
+        </li>
+    </modDependencies>
+</ModMetaData>

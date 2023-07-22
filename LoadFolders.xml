@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LoadFolders>
+    <v1.4>
+        <li>/</li>
+        <li>1.4</li>
+        <li IfModActive="vanillaracesexpanded.sanguophage">1.4/Mods/Vanilla Races Expanded - Sanguophage</li>
+    </v1.4>
+</LoadFolders>

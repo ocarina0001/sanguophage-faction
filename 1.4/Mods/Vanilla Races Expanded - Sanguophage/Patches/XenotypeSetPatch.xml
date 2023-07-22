@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Patch>
+
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/FactionDef[defName="OCARINA_SanguophageFaction"]/xenotypeSet</xpath>
+        <value>
+            <xenotypeSet>
+                <xenotypeChances>
+                    <Sanguophage MayRequire="Ludeon.RimWorld.Biotech">1</Sanguophage>
+                    <VRE_Strigoi>1</VRE_Strigoi>
+                    <VRE_Ekkimian>1</VRE_Ekkimian>
+                    <VRE_Bruxa>1</VRE_Bruxa>
+                </xenotypeChances>
+            </xenotypeSet>
+        </value>
+    </Operation>
+
+</Patch>
