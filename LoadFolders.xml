@@ -4,5 +4,6 @@
         <li>/</li>
         <li>1.4</li>
         <li IfModActive="vanillaracesexpanded.sanguophage">1.4/Mods/Vanilla Races Expanded - Sanguophage</li>
+        <li IfModActive="redmattis.undead">1.4/Mods/Vampires, Demons, and the Undead</li>
     </v1.4>
 </LoadFolders>
