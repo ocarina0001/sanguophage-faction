@@ -10,7 +10,7 @@
         </weaponTags>
         <weaponMoney>600~800</weaponMoney>
         <apparelMoney>500~700</apparelMoney>
-        <apparelAllowHeadgearChance>0.4</apparelAllowHeadgearChance>
+        <apparelAllowHeadgearChance>0.75</apparelAllowHeadgearChance>
         <techHediffsChance>0.15</techHediffsChance>
         <techHediffsMoney>0~1800</techHediffsMoney>
         <techHediffsTags>
@@ -98,20 +98,17 @@
         <isFighter>true</isFighter>
         <gearHealthRange>1~1</gearHealthRange>
         <itemQuality>Good</itemQuality>
-        <weaponMoney>200~200</weaponMoney>
-        <weaponTags>
-            <li>Gun</li>
-        </weaponTags>
-        <apparelMoney>700~1200</apparelMoney>
-        <techHediffsChance>0.15</techHediffsChance>
+        <weaponMoney>200~3000</weaponMoney>
+        <apparelMoney>200~3000</apparelMoney>
+        <techHediffsChance>0.30</techHediffsChance>
         <techHediffsMoney>600~1500</techHediffsMoney>
         <techHediffsTags>
             <li>Simple</li>
             <li>Advanced</li>
             <li>ImplantEmpireCommon</li>
         </techHediffsTags>
-        <initialWillRange>3~5</initialWillRange>
-        <initialResistanceRange>7~11</initialResistanceRange>
+        <initialWillRange>4~8</initialWillRange>
+        <initialResistanceRange>8~16</initialResistanceRange>
     </PawnKindDef>
 
 </Defs>
