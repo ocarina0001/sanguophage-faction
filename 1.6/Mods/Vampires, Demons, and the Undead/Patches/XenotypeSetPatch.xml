@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Patch>
+
+    <Operation Class="PatchOperationAdd">
+        <xpath>Defs/FactionDef[defName="OCARINA_SanguophageFaction"]/xenotypeSet/xenotypeChances</xpath>
+        <value>
+            <VU_Dracul_Mature>1</VU_Dracul_Mature>
+            <VU_WhiteRose>1</VU_WhiteRose>
+        </value>
+    </Operation>
+
+</Patch>

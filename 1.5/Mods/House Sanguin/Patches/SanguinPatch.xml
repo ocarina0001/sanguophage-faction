@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Patch>
+
+    <Operation Class="PatchOperationAdd">        <!-- Apparel patches -->
+        <xpath>Defs/PawnKindDef[@Name="OCARINA_SanguophageBase"]/specificApparelRequirements/li/alternateTagChoices</xpath>
+        <value>
+            <!-- Apparel -->
+            <li>
+                <tag>DevDesigner_Blood_Apparel_HeraldicHeavyHauberk</tag>
+                <chance>0.2</chance>
+            </li>
+            <li>
+                <tag>DevDesigner_Blood_Apparel_FullPlate</tag>
+                <chance>0.2</chance>
+            </li>
+            <li>
+                <tag>DevDesigner_Blood_Apparel_LordFullPlate</tag>
+                <chance>0.2</chance>
+            </li>
+            <!-- Attachments -->
+            <li>
+                <tag>DevDesigner_Attachment</tag>
+                <chance>0.4</chance>
+            </li>
+            <!-- Headgear -->
+            <li>
+                <tag>DevDesigner_Blood_Apparel_HeraldicGreatHelm</tag>
+                <chance>0.2</chance>
+            </li>
+            <li>
+                <tag>DevDesigner_Blood_Apparel_HeraldicGreatHelm</tag>
+                <chance>0.2</chance>
+            </li>
+            <li>
+                <tag>DevDesigner_Blood_Apparel_ArmetNormal</tag>
+                <chance>0.2</chance>
+            </li>
+            <li>
+                <tag>DevDesigner_Blood_Apparel_Armet</tag>
+                <chance>0.2</chance>
+            </li>
+            <li>
+                <tag>DevDesigner_Blood_Apparel_Hood</tag>
+                <chance>0.2</chance>
+            </li>
+            <li>
+                <tag>DevDesigner_Blood_Apparel_ArmetLord</tag>
+                <chance>0.2</chance>
+            </li>
+        </value>
+    </Operation>
+
+    <Operation Class="PatchOperationAdd">        <!-- Weapon Patches -->
+        <xpath>Defs/PawnKindDef[@Name="OCARINA_SanguophageBase"]/weaponTags</xpath>
+        <value>
+            <li>DevDesigner_Blood_MeleeWeapon_Longsword</li>
+            <li>DevDesigner_Blood_MeleeWeapon_ExecutionerGreatsword</li>
+            <li>DevDesigner_Blood_MeleeWeapon_PikeStandard</li>
+            <li>DevDesigner_Blood_MeleeWeapon_Sword</li>
+        </value>
+    </Operation>
+
+</Patch>

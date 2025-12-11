@@ -5,5 +5,20 @@
         <li>1.4</li>
         <li IfModActive="vanillaracesexpanded.sanguophage">1.4/Mods/Vanilla Races Expanded - Sanguophage</li>
         <li IfModActive="redmattis.undead">1.4/Mods/Vampires, Demons, and the Undead</li>
+        <li IfModActive="devdesigner.blood">1.4/Mods/House Sanguin</li>
     </v1.4>
+    <v1.5>
+        <li>/</li>
+        <li>1.5</li>
+        <li IfModActive="vanillaracesexpanded.sanguophage">1.5/Mods/Vanilla Races Expanded - Sanguophage</li>
+        <li IfModActive="redmattis.undead">1.5/Mods/Vampires, Demons, and the Undead</li>
+        <li IfModActive="finch.blood">1.5/Mods/House Sanguin</li>
+    </v1.5>
+    <v1.6>
+        <li>/</li>
+        <li>1.6</li>
+        <li IfModActive="vanillaracesexpanded.sanguophage">1.6/Mods/Vanilla Races Expanded - Sanguophage</li>
+        <li IfModActive="redmattis.undead">1.6/Mods/Vampires, Demons, and the Undead</li>
+        <li IfModActive="finch.blood">1.6/Mods/House Sanguin</li>
+    </v1.6>
 </LoadFolders>
